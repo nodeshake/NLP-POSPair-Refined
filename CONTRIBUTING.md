@@ -21,4 +21,4 @@ Please note we have a code of conduct, please follow it in all your interactions
 ### Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributor
+contributors and maintainers pledge to making participation in our project a
