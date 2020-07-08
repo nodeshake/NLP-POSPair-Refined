@@ -29,4 +29,7 @@ orientation.
 
 ### Our Standards
 
-Examples of behavior that contribut
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming a
