@@ -34,4 +34,5 @@ include:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
-* Gracefully accep
+* Gracefully accepting constructive criticism
+* Focusing on what
