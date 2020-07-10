@@ -32,4 +32,5 @@ orientation.
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming a
+* Using welcoming and inclusive language
+* Being respectful of di
