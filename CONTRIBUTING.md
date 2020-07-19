@@ -40,4 +40,5 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized languag
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances
