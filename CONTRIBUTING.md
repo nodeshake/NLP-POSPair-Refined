@@ -38,4 +38,6 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by part
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized languag
