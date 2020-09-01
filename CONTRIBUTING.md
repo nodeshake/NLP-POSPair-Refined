@@ -56,4 +56,5 @@ behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edit
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are
