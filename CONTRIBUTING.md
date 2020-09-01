@@ -57,4 +57,4 @@ response to any instances of unacceptable behavior.
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
-that are
+that are not aligned to this Code of Conduct, or to ban temporarily or
