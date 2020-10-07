@@ -62,3 +62,5 @@ permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
 ### Scope
+
+This Code of Conduct applies both within project s
