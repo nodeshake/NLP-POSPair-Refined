@@ -72,4 +72,5 @@ further defined and clarified by project maintainers.
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behav
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at pospair
