@@ -79,4 +79,4 @@ is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
-Project maintain
+Project maintainers who do not follow or enforce the Code of Cond
