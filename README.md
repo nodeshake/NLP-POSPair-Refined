@@ -5,4 +5,6 @@ The NLP-POSPair-Refined is an improved and more user-friendly representation for
 Words are categorized into several types of part-of-speech based on use and functions. This model also clearly defines how words of specific part-of-speech are interrelated providing some meaningful relation. The one-sided relations between the part-of-speech are properly represented through word pairs which are generated in context of the whole text.
 
 ## GETTING STARTED:
-This section provides information on prere
+This section provides information on prerequisites, installation, and various functions of POSPair.
+
+### P
