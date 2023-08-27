@@ -8,4 +8,7 @@ Words are categorized into several types of part-of-speech based on use and func
 This section provides information on prerequisites, installation, and various functions of POSPair.
 
 ### PREREQUISITES:
-Ensure to have Python 3.0 or higher and Stanford
+Ensure to have Python 3.0 or higher and Stanford Core NLP (3.9.2) installed.
+
+### INSTALLING:
+Use pip inst
