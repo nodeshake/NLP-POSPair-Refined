@@ -7,4 +7,5 @@ Words are categorized into several types of part-of-speech based on use and func
 ## GETTING STARTED:
 This section provides information on prerequisites, installation, and various functions of POSPair.
 
-### P
+### PREREQUISITES:
+Ensure to have Python 3.0 or higher and Stanford
