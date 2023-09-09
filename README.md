@@ -15,4 +15,4 @@ Use pip install command as shown below to install POSPair.
 ```
 1. pip install POSPair
 ```
-Follow the instruction on [ho
+Follow the instruction on [how to install and run Stanford CoreNLP server](http://sta
