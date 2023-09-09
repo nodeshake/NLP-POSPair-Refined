@@ -13,4 +13,6 @@ Ensure to have Python 3.0 or higher and Stanford Core NLP (3.9.2) installed.
 ### INSTALLING:
 Use pip install command as shown below to install POSPair.
 ```
-1
+1. pip install POSPair
+```
+Follow the instruction on [ho
