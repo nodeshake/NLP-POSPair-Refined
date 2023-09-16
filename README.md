@@ -23,4 +23,4 @@ Follow the instruction on [how to install and run Stanford CoreNLP server](http:
 The project has been built using Python, Stanford Core NLP, Pycorenlp, and Gensim (Word2Vec).
 
 ### CONTRIBUTING:
-Read [CONTRIBUTING.md](https://github.com/nodeshake/NLP-POSPair-Refined/blob/master/CON
+Read [CONTRIBUTING.md](https://github.com/nodeshake/NLP-POSPair-Refined/blob/master/CONTRIBUTING.md) for details on how to contribute to
