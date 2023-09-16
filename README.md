@@ -20,4 +20,7 @@ Follow the instruction on [how to install and run Stanford CoreNLP server](http:
 [**Note**: The Stanford CoreNLP Server port should be: 9000]
 
 ### BUILT WITH:
-The project has been built using Python, Stanford Core NLP, Pycorenlp, and Gensim (Word2Ve
+The project has been built using Python, Stanford Core NLP, Pycorenlp, and Gensim (Word2Vec).
+
+### CONTRIBUTING:
+Read [CONTRIBUTING.md](https://g
