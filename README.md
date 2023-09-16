@@ -17,4 +17,7 @@ Use pip install command as shown below to install POSPair.
 ```
 Follow the instruction on [how to install and run Stanford CoreNLP server](http://stanfordnlp.github.io/CoreNLP/corenlp-server.html#getting-started)
 
-[**Note**: The Stanford CoreNLP Server port should be
+[**Note**: The Stanford CoreNLP Server port should be: 9000]
+
+### BUILT WITH:
+The project has been built usin
