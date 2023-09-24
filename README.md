@@ -29,4 +29,4 @@ Read [CONTRIBUTING.md](https://github.com/nodeshake/NLP-POSPair-Refined/blob/mas
 Nodeshake
 
 ### LICENSE:
-This project is licensed under the [GNU Gene
+This project is licensed under the [GNU General Public License v3.0](https://github.co
