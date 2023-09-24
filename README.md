@@ -31,4 +31,4 @@ Nodeshake
 ### LICENSE:
 This project is licensed under the [GNU General Public License v3.0](https://github.com/nodeshake/NLP-POSPair-Refined/blob/master/LICENSE)
 
-_For any queries
+_For any queries or feedback, please get in touch at pospair.contact@gmail.com_
